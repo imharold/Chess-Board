@@ -1,3 +1,2 @@
-# Chess Board
-Setting up the dimension of the board and putting some material on it ( black and white )
-
+# Creating Base for the Chess Pieces Asset
+Making a cylinder and use the bevel tool to mold the base.
