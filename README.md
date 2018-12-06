@@ -1,2 +1,2 @@
-# Created a Base for the Chess Pieces Asset
-Making a cylinder and use the bevel tool to mold the base.
+# Low-Poly Chess Board & Pieces
+Using 3D Blender v2.79
