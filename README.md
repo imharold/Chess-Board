@@ -1,2 +1,2 @@
-# Creating Base for the Chess Pieces Asset
-Making a cylinder and use the bevel tool to mold the base.
+# Chess Board & Pieces using 3D Blender
+Will study about putting some material and texture in my model and practice my modeling skill.
